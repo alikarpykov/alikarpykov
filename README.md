@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ali Karpykov
-- 👀 I’m interested in front-end developing
+- 👀 I’m interested in frontend developing
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me alikarpykov03@gmail.com
 

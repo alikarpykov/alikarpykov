@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ali Karpykov
 - 👀 I’m interested in frontend developing
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React
 - 📫 How to reach me alikarpykov03@gmail.com
 
 <!---
